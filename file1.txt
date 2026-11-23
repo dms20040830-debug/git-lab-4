@@ -1,1 +1,1 @@
-Text for file 1 in MAIN branch
+Text for file 1 in MAIN branch (changed)
