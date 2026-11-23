@@ -1,1 +1,3 @@
 Text for file 1 in MAIN branch (changed)
+Text for file 1 in VETKA branch
+
